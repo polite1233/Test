@@ -18,6 +18,6 @@ class FirstController {
 
     @RequestMapping("/get")
     public String get() {
-        return "1";
+        return "2";
     }
 }
